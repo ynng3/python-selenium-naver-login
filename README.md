@@ -1,5 +1,15 @@
 # python-selenium-naver-login
-Python Selenium Naver Login
+
+Python에서 Selenium 을 활용한 네이버 로그인 처리
+
+## 프로젝트 종속성 모듈 패키지
+
+이 프로젝트는 아래와 같은 종속성을 갖습니다.
+
+* [pyperclip](https://pypi.org/project/pyperclip/)
+* [PyGetWindow](https://pypi.org/project/PyGetWindow/)
+* [selenium](https://pypi.org/project/selenium/)
+* [webdrivermangaer](https://pypi.org/project/webdrivermanager/)
 
 ## 동작 원리
 
@@ -35,7 +45,7 @@ window.hide()      # 완전히 숨기기
 
 ## 주의사항
 
-이 인증 기능을 통해 봇을 개발하여 네이버 측에 허가 받지 않고 개인정보를 무단으로 수집하는 경우 네이버 측에서 법적 책임을 물 수 있으며 이로 인한 법적 책임은 해당 봇을 개발한 개발자 및 사용자 본인에게 있으며, 이 프로젝트의 [기고자(알노리)](https://github.com/ynng3)는 어떠한 책임도 지지 않습니다.
+이 인증 기능을 통해 봇을 개발하여 네이버 측에 허가 받지 않고 개인정보를 무단으로 수집하는 경우 네이버 측에서 법적 책임을 물 수 있으며 이로 인한 법적 책임은 해당 봇을 개발한 개발자 및 사용자 본인에게 있으며, 이 프로젝트의 [기고자](https://github.com/ynng3)는 어떠한 책임도 지지 않습니다.
 
 학습 및 교육용으로만 사용하시기를 당부 드립니다.
 
