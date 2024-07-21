@@ -1,0 +1,4 @@
+selenium==4.15.1
+webdriver-manager==4.0.1
+pyperclip==1.8.2
+pygetwindow==0.0.9
